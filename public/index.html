@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>안산 AI 챗봇</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="rules.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="main-content">
+        <header>
+            <h1 class="logo-text">안산대학교 AI 챗봇 구현</h1>
+            <p class="tagline">
+                '안이'는 자주 묻는 키워드(셔틀, 학과 등) 데이터를 탐색하여 빠른 답변을 제공하고 <br>
+                '산이'는 GeminiAPI 기반으로 사용자에게 맞는 AI 답변을 제공 해줍니다.</p>
+        </header>
+
+        <section class="chatbot-info">
+            <h2>AI 캠퍼스 도우미, '안이 & 산이'</h2>
+            <p>
+                학교 생활의 궁금증을 해결해 줄 두 명의 AI 챗봇이 여러분을 기다립니다.<br>
+                '우측 하단'의 챗봇 버튼을 클릭하여 학사 일정, 셔틀버스, 학과 정보 등 무엇이든 물어보세요! <br><br>
+            </p>
+        </section>
+    </div>
+
+    <div id="ani-chatbot-widget">
+        <img src="img/안이2.png" id="ani-image" alt="안이 챗봇">
+        <p>챗봇</p>
+    </div>
+
+    <div id="chat-modal" class="chat-modal-overlay">
+        <div class="chat-modal-wrapper">
+            <img src="img/안이1.png" alt="안이 로고" class="ani-logo-absolute">
+            <div class="chat-modal-content">
+                <div class="chat-header">
+                    <div class="header-text">안산대학교 챗봇</div>
+                    <div class="header-buttons">
+                        <button id="chat-minimize-btn" title="축소"><i class="fas fa-window-minimize"></i></button>
+                        <button id="chat-maximize-btn" title="확대/복원"><i class="fas fa-window-maximize"></i></button>
+                        <button id="chat-close-btn" title="닫기"><i class="fas fa-times"></i></button>
+                    </div>
+                </div>
+                <div class="chat-body"></div>
+                <div class="chat-input-area">
+                    <input type="text" id="chat-input" placeholder="메시지를 입력하세요...">
+                    <button id="chat-send-btn"><i class="fas fa-paper-plane"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
