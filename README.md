@@ -1,3 +1,6 @@
+https://infognu.ansan.ac.kr/~i2251014/yang/index.html  <br>
+
+
 안산대학교 AI 챗봇은 '안이'와 '산이'라는 두 마스코트를 활용하여 차별화된 이중 응답 로직을 구현하였고 <br>
 학교 공모전에서 우수상을 수상하였습니다.<br><br>
 <img src="https://github.com/user-attachments/assets/efc15160-d224-4202-88b7-c1f708c7c50c" width="50%" /><br><br><br>
@@ -6,7 +9,10 @@
 비정적인 데이터 (데이터에 없는 비정형 질문)은 Gemini API 기반의 AI가 처리하여 정확하고 유연한 답변을 '산이'가 제공합니다.<br>
 사용자는 AI 답변인지 아닌지 구분할 수 있고 간편하게 질문만으로 학교 정보를 얻을 수 있습니다.<br>
 
-<img width="392" height="228" alt="image" src="https://github.com/user-attachments/assets/a183700c-17b7-48ba-8138-123b7094cfa4" /><br><br><br>
+<img width="326" height="501" alt="image" src="https://github.com/user-attachments/assets/8e7e42f0-7541-4118-a3c2-be4b306db42d" />
+<img width="346" height="501" alt="image" src="https://github.com/user-attachments/assets/7092d2fe-43ef-45bc-a3e4-0f7398e72507" /> <br>
+
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/a183700c-17b7-48ba-8138-123b7094cfa4" /><br><br><br>
 
 프론트, ppt, 영상: 강영교, 황순호<br>
 백엔드: 양준호, 민태민<br>
