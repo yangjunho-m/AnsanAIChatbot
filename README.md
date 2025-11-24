@@ -2,8 +2,8 @@
 학교 공모전에서 우수상을 수상하였습니다.<br><br>
 <img src="https://github.com/user-attachments/assets/efc15160-d224-4202-88b7-c1f708c7c50c" width="50%" /><br><br><br>
 
-자주 묻는 셔틀버스, 학사일정 등의 정형 질문은 키워드 및 규칙 기반으로 빠르게 '안이'가 답변하며,  <br>
-데이터에 없는 비정형 질문은 Gemini API 기반의 AI가 처리하여 정확하고 유연한 답변을 '산이'가 제공합니다.<br>
+정적인 데이터 (셔틀버스, 학사일정 등의 정형 질문)은 키워드 및 규칙 기반으로 빠르게 '안이'가 답변하며,  <br>
+비정적인 데이터 (데이터에 없는 비정형 질문)은 Gemini API 기반의 AI가 처리하여 정확하고 유연한 답변을 '산이'가 제공합니다.<br>
 사용자는 AI 답변인지 아닌지 구분할 수 있고 간편하게 질문만으로 학교 정보를 얻을 수 있습니다.<br>
 
 <img width="392" height="228" alt="image" src="https://github.com/user-attachments/assets/a183700c-17b7-48ba-8138-123b7094cfa4" /><br><br><br>
