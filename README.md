@@ -12,10 +12,15 @@
 
 ## Overview
 
+**Live Service (현재)**
+https://infognu.ansan.ac.kr/
+
+**Initial Deployment (졸업작품 버전)**  
+https://infognu.ansan.ac.kr/~i2251014/yang/
+
 안산대학교 AI 챗봇은 '안이'와 '산이'라는 두 마스코트를 활용하여 차별화된 이중 응답 로직을 구현하였고 <br>
 학교 공모전에서 우수상을 수상하였으며 실제 컴퓨터공학부 실습 서버에 배포하여 사용되고 있습니다.<br><br>
 <img src="https://github.com/user-attachments/assets/efc15160-d224-4202-88b7-c1f708c7c50c" width="50%" /><br><br>
-안산대학교 컴퓨터공학부 실습서버  <br> https://infognu.ansan.ac.kr/ <br><br><br>
 
 정적인 데이터 (셔틀버스, 학사일정 등의 정형 질문)은 키워드 및 규칙 기반으로 빠르게 '안이'가 답변하며,  <br>
 비정적인 데이터 (데이터에 없는 비정형 질문)은 Gemini API 기반의 AI가 처리하여 정확하고 유연한 답변을 '산이'가 제공합니다.<br>
