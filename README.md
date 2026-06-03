@@ -34,17 +34,17 @@ https://infognu.ansan.ac.kr/~i2251014/yang/
 
 ## 팀 구성 및 역할
 개발기간: 25.11.06 ~ 25.11.23 <br><br>
-양준호 | PM & Lead <br>
- - AI 추론 파이프라인 단독 설계, Node.js 백엔드 서버 구축 및 배포/운영 총괄, 최종 기술 발표 <br>
+양준호 <br>
+ - 파이프라인 설계, Node.js 백엔드 서버 구축 및 배포/운영 총괄, 최종 기술 발표 <br>
 
-민태민 | Data Specialist <br>
+민태민 <br>
  - AI 응답 정확도 향상을 위한 데이터 키워드 추출 및 삽입 <br>
 
-강영교 | Creative Designer <br>
+강영교 <br>
  -  프론트엔드 UI 구현 및 시연 영상 제작, 기획 발표 보조 <br>
 
-황순호 | Support <br>
- - 서비스 소개 PPT 제작, 프로젝트 초기 리서치 및 기술 스택 조사 <br>
+황순호 <br>
+ - 서비스 소개 PPT 제작, 프로젝트 초기 리서치, 데이터 추출 보조 <br>
 
 ## Key Features
 
